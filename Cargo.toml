@@ -1,0 +1,10 @@
+[package]
+name = "aoc-2024"
+version = "0.1.0"
+edition = "2021"
+authors = ["xomcar"]
+
+[[bin]]
+name = "01"
+
+[dependencies]
